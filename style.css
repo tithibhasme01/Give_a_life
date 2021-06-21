@@ -1,0 +1,123 @@
+body {
+  background-color: #f3f4ed;
+  text-align: center;
+}
+
+
+.image {
+  background-image: url("image3.jpg");
+
+  height: 600px;
+  background-size: cover;
+  position: relative;
+
+  color: #fff;
+  filter: grayscale(90%);
+}
+h1 {
+  font-family: "Roboto" Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+  color: aliceblue;
+}
+.big-heading {
+  font-family: "Ubuntu", sans-serif;
+  text-align: justify;
+  font-size: 4rem;
+  line-height: 1.5;
+  transform: translate(-50%, -50%);
+  position: relative;
+  top: 40%;
+  left: 50%;
+}
+.container-fluid {
+  padding: 4% 10%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Roboto" Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+  font-size: 2.5rem;
+  font-weight: 12;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.4rem;
+  font-family: "Montserrat-light";
+}
+
+.about {
+  color: #81b214;
+  position: relative;
+
+  left: 45%;
+  text-align: center;
+  padding-top: 4rem;
+
+  font-family: "Montserrat-bold";
+  font-size: 2.5rem;
+  font-weight: 12;
+}
+.info info1 {
+  text-indent: 30px;
+
+  margin-bottom: 15px;
+  line-height: 27px;
+  font-weight: 500;
+  text-align: justify;
+  font-size: large;
+  font: weight 5px;
+}
+.reach {
+  color: #81b214;
+  text-align: center;
+  left: 45%;
+  padding-top: 4.5rem;
+  font-size: 2.5rem;
+  font-weight: 12;
+  font-family: "Montserrat-bold";
+  position: relative;
+
+  left: 45%;
+}
+.contact {
+  color: #81b214;
+  text-align: center;
+  padding-top: 4.5rem;
+  font-size: 2.5rem;
+  font-weight: 12;
+  font-family: "Montserrat-bold";
+}
+.our-reach {
+  color: #1b2021;
+}
+#donate {
+  background-color: #126e82;
+}
+.donate {
+  color: white;
+  text-align: center;
+  padding-top: 4.5rem;
+  font-size: 2.5rem;
+  font-weight: 12;
+  font-family: "Montserrat-bold";
+}
+.support {
+  color: white;
+  padding-top: 0.5rem;
+}
+#contact {
+  padding-top: 4.5rem;
+  color: white;
+}
+.social-icon {
+  margin: 20px 10px;
+}
